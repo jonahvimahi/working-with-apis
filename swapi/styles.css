@@ -1,0 +1,14 @@
+button {
+    background-color: red;
+	color: black;
+	padding: 15px 30px;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+}
+
+body {
+    background-color: teal;
+}
